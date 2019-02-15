@@ -1,0 +1,55 @@
+{
+  "basic":{
+    "image":"pra.png",
+    "name":"uma sankar",
+    "mail":"rajanaumasankar99@gmail.com",
+    "college":"pragati engineering college",
+    "number":"+91 9898989898",
+    "address":"surampalem"
+},
+"cinfo":{
+    "info":" to purse a challenging career and be a part of progressive"
+  },
+  "education":[
+    {
+      "institute":"pragati engineering college",
+      "degree":"B.tech",
+      "passout":"2020"
+    },
+    {
+      "institute":"sri chaitanya junior college",
+      "degree":"inter",
+      "passout":"2016"
+    },
+    {
+      "institute":"ravindra bhararthi school",
+      "degree":"10th",
+      "passout":"2014"
+    }
+  ],
+  "technical":[
+    {
+      "titile":"programming languages",
+      "content":["c,c++,java,python"]
+    },
+    {
+      "title":"operating system",
+      "content":["windows,linux,ubantu"]
+    },
+    {
+      "title":"databases",
+      "content":["mysql,oracle,indexedDB"]
+    }
+  ],
+  "Achivements":[
+    {
+      "info":"ML basices"
+    },
+    {
+      "info":"big data basices"
+    },
+    {
+      "info":"progessive web apps"
+    }
+  ]
+  }
